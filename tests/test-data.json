@@ -1,0 +1,52 @@
+{
+  "testCases": [
+    {
+      "id": "TC1",
+      "description": "Web Application - Implement user authentication in To Do with Feature, High Priority",
+      "projectName": "Web Application",
+      "taskTitle": "Implement user authentication",
+      "columnName": "To Do",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "id": "TC2",
+      "description": "Web Application - Fix navigation bug in To Do with Bug tag",
+      "projectName": "Web Application",
+      "taskTitle": "Fix navigation bug",
+      "columnName": "To Do",
+      "tags": ["Bug"]
+    },
+    {
+      "id": "TC3",
+      "description": "Web Application - Design system updates in In Progress with Design tag",
+      "projectName": "Web Application",
+      "taskTitle": "Design system updates",
+      "columnName": "In Progress",
+      "tags": ["Design"]
+    },
+    {
+      "id": "TC4",
+      "description": "Mobile Application - Push notification system in To Do with Feature tag",
+      "projectName": "Mobile Application",
+      "taskTitle": "Push notification system",
+      "columnName": "To Do",
+      "tags": ["Feature"]
+    },
+    {
+      "id": "TC5",
+      "description": "Mobile Application - Offline mode in In Progress with Feature, High Priority",
+      "projectName": "Mobile Application",
+      "taskTitle": "Offline mode",
+      "columnName": "In Progress",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "id": "TC6",
+      "description": "Mobile Application - App icon design in Done with Design tag",
+      "projectName": "Mobile Application",
+      "taskTitle": "App icon design",
+      "columnName": "Done",
+      "tags": ["Design"]
+    }
+  ]
+}
